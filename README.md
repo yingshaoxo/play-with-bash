@@ -94,4 +94,4 @@ unset IF
 
 # My thinking
 
-**If you could use Python to solve the problem, don't use bash.**
+If you could use Python to solve the problem, don't use bash.
